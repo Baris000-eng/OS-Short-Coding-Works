@@ -7,5 +7,5 @@ SC-2: usage of execlp for the command ps-f
 
 SC-3: usage of sleep() and exit() function
 
-SC-4: usage of strftime() , gettimeofday(), write() and read(). (Write() and read() are related to the interprocess communication logic with pipes.)
+SC-4: usage of the functions called strftime() , gettimeofday(), fork(), wait(), write() and read(). (Write() and read() are related to the interprocess communication logic with pipes.)
 
